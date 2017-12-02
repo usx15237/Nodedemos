@@ -2,7 +2,7 @@
 ##  运行环境搭建
 * 安装mongoose依赖包
 ```
-npm i 
+npm install mongoose
 ```
 项目目录下开启mongoDB即可
 ```
