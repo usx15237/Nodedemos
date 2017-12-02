@@ -1,4 +1,13 @@
 > mongoose是MongoDB的Node.js框架(类似于EF框架)，在处理MongoDB表管理、验证方面有方便之处
+##  运行环境搭建
+* 安装mongoose依赖包
+```
+npm i 
+```
+项目目录下开启mongoDB即可
+```
+node mongoose_demo.js
+```
 #### demo功能
 * 连接数据库
 * 生成模型类

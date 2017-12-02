@@ -1,4 +1,9 @@
-* 环境搭建
+#### 简单express环境搭建
+* 安装express-generator
+```
+npm i -g express-generator
+```
+* 生成一个简单项目
 ```
 npm i
 ```
